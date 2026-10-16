@@ -1,0 +1,11 @@
+HistData.com (c) 2012
+File: DAT_ASCII_NSXUSD_M1_202610.csv Status Report
+
+Gap of 6301s found between 20261001161459 and 20261001180006.
+Gap of 6300s found between 20261005161459 and 20261005180005.
+Gap of 6300s found between 20261006161459 and 20261006180005.
+Gap of 6301s found between 20261007161459 and 20261007180006.
+Gap of 6301s found between 20261008161459 and 20261008180006.
+
+Average tick interval: 1000 miliseconds.
+Maximum tick interval found: 6301000 miliseconds.
